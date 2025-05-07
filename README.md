@@ -7,7 +7,7 @@
 
 ---
 
-## 📑 Índice
+## Índice
 
 - [Descripción del proyecto](#descripción-del-proyecto)
 - [Estado del proyecto](#estado-del-proyecto)
@@ -20,7 +20,7 @@
 
 ---
 
-## 📝 Descripción del proyecto
+## Descripción del proyecto
 
 Este proyecto es un conversor de monedas en consola que permite realizar conversiones entre **dólares**, **pesos mexicanos** y **euros**. El usuario puede seleccionar cualquier combinación entre estas tres monedas, ingresar una cantidad, y ver el resultado equivalente. Todo esto se ejecuta en un bucle hasta que el usuario decide salir.
 
@@ -28,14 +28,14 @@ Este proyecto fue desarrollado como parte de un **challenge de un Bootcamp de Pr
 
 ---
 
-## 📌 Estado del proyecto
+## Estado del proyecto
 
 ✅ Proyecto terminado (en su versión Back-End)  
 🚫 No se contempla una interfaz gráfica (Front-End)
 
 ---
 
-## 🎥 Demostración de funcionalidades
+## Demostración de funcionalidades
 
 Los usuarios pueden:
 
@@ -47,7 +47,7 @@ Los usuarios pueden:
 
 ---
 
-## ⚙️ Cómo usar el proyecto
+## Cómo usar el proyecto
 
 1. Dirígete a la sección **Releases** del repositorio.
 2. Descarga el archivo `.jar` desde la sección de Releases del repositorio: [Haz clic aquí para ir a la última versión](https://github.com/JenniferButanda/ConversorDeMonedas/releases/tag/v1.0.0)
@@ -61,7 +61,7 @@ java -jar ConversorDeMonedas.jar
 ## ⚠️ Es necesario tener instalada la versión Java 17 o superior.
 ---
 
-## 🛠️ Tecnologías utilizadas
+## Tecnologías utilizadas
 
 - Lenguaje: **Java 17.0.15**
 - IDE: **IntelliJ IDEA**
@@ -69,14 +69,14 @@ java -jar ConversorDeMonedas.jar
 
 ---
 
-## 📬 Contacto
+## Contacto
 
 Si tienes dudas, comentarios o sugerencias, puedes escribirme a:  
 📧 **butandajenny@gmail.com**
 
 ---
 
-## 👩‍💻 Autores
+## Autores
 
 - **Jennifer Butanda**  
   Estudiante del área Back-End  
@@ -84,7 +84,7 @@ Si tienes dudas, comentarios o sugerencias, puedes escribirme a:
 
 ---
 
-## 🧾 Licencia
+## Licencia
 
 Este proyecto está licenciado bajo la [Licencia MIT]([https://opensource.org/licenses/MIT](https://github.com/JenniferButanda/ConversorDeMonedas/blob/main/LICENSE)).  
 Eres libre de usar, copiar, modificar y distribuir este código, siempre y cuando mantengas la atribución original.
