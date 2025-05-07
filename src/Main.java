@@ -36,7 +36,7 @@ public class Main {
         double totalAmount = 0.0;
         String finalAmount = "0.0";
 
-        DecimalFormat df = new DecimalFormat();
+        DecimalFormat df = new DecimalFormat("#.00");
 
         Converter converter = new Converter();
 
